@@ -1,7 +1,7 @@
 #!/bin/bash
 
 git checkout master
-git pull upstream
+git pull upstream master
 git push zaphodbe master
 
 #branches=( "DlgExpressionInput4384" "SpaceBalls" "dev" )
